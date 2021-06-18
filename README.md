@@ -1,3 +1,3 @@
 # Seat-Movie-Reservation
 App in Javascript
-Book seats for the movie
+https://kubaw00.github.io/Seat-Movie-Reservation/
